@@ -2,6 +2,7 @@ import { motion } from 'framer-motion';
 import SkillsSection from '../components/SkillsSection';
 import { Download, Briefcase, GraduationCap } from 'lucide-react';
 
+
 const TimelineItem = ({ 
   year, 
   title, 
@@ -76,11 +77,14 @@ const AboutPage = () => {
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
             >
-              <img
-                src="https://images.pexels.com/photos/4195342/pexels-photo-4195342.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-                alt="Aminur Rahman Rahi"
-                className="rounded-lg shadow-lg w-full"
-              />
+                      <img
+            src="/Rahi.jpeg"
+            alt="Aminur Rahman Rahi"
+            className="rounded-lg shadow-lg w-full object-cover aspect-square md:aspect-auto md:h-[500px]"
+          />
+
+
+
             </motion.div>
             
             <motion.div

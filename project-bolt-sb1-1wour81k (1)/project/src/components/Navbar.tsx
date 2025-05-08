@@ -50,7 +50,7 @@ const Navbar = ({ darkMode, toggleDarkMode }: NavbarProps) => {
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0">
             <NavLink to="/" className="text-2xl font-bold gradient-text">
-              Aminur R.
+              Rahi.
             </NavLink>
           </div>
 

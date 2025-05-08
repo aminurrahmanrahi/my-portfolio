@@ -14,7 +14,6 @@ const skills: Skill[] = [
   { name: 'Node.js', level: 75, category: 'Backend', icon: '🟢' },
   { name: 'Express.js', level: 75, category: 'Backend', icon: '⚡' },
   { name: 'MongoDB', level: 70, category: 'Backend', icon: '🍃' },
-  { name: 'Three.js', level: 65, category: 'Frontend', icon: '🔺' },
   { name: 'CSS/SCSS', level: 85, category: 'Frontend', icon: '🎨' },
   { name: 'Tailwind CSS', level: 90, category: 'Frontend', icon: '🌊' },
   { name: 'Figma', level: 70, category: 'Design', icon: '🎭' },

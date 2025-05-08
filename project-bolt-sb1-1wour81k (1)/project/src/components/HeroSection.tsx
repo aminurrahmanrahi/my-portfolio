@@ -16,7 +16,7 @@ const HeroSection = () => {
           transition={{ duration: 0.8 }}
         >
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-4">
-            Hi, I'm <span className="gradient-text">Aminur Rahman</span>
+            Hi, I'm <span className="gradient-text">Aminur Rahman Rahi </span>
           </h1>
           
           <motion.p
